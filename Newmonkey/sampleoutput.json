@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "New York Jets Top Plays vs. Cleveland Browns | 2023 Preseason HOF Game - New York Jets",
+            "description": "New York Jets Highlights vs. Cleveland Browns | 2023 Preseason HOF Game 0, 08/04/2023Subscribe to the New York Jets YT Channel: https://bit.ly/2KRtBJdFor mor...",
+            "url": "https://www.youtube.com/watch?v=7YRIzPkUk5I",
+            "urlToImage": "https://i.ytimg.com/vi/7YRIzPkUk5I/maxresdefault.jpg",
+            "publishedAt": "2023-08-04T03:33:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tammy Mutasa",
+            "title": "NTSB releases image of 'close call' between JetBlue flight, Learjet at Logan Airport - CBS Boston",
+            "description": "The NTSB has released its final report and a picture showing just how close two jets came to colliding at Logan Airport.",
+            "url": "https://www.cbsnews.com/boston/news/ntsb-report-jetblue-hop-a-jet-close-call-logan-airport/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/03/bea5d385-e583-4e9a-bd20-544d7f75b9c2/thumbnail/1200x630/8051bd836260b3fbf80a6448e266b1a0/jet2.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-04T03:23:00Z",
+            "content": "BOSTON - Federal investigators ruled that the pilot of a charter jet took off without permission, creating a \"conflict\" with a JetBlue plane that was preparing to land on an intersecting runway at Bo… [+2774 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Sasha Pezenik",
+            "title": "Lawyer for Idaho college killings suspect Bryan Kohberger says he was driving alone night of murders - ABC News",
+            "description": "\"Often he would go for drives at night\" and \"did so\" that night, his lawyer said",
+            "url": "https://abcnews.go.com/US/lawyer-idaho-college-killings-suspect-bryan-kohberger-driving/story?id=101999965",
+            "urlToImage": "https://s.abcnews.com/images/US/Kohberger-court-gty-ps-230711_1689086224122_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-04T03:07:14Z",
+            "content": "Bryan Kohberger, the doctoral candidate accused of killing four Idaho college students last fall says he wasn't in the home where the homicides occurred and was driving around alone that night, accor… [+5062 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Natasha Bertrand",
+            "title": "Two US Navy sailors arrested for allegedly sharing sensitive military information with China - CNN",
+            "description": "Two US Navy sailors have been indicted and arrested for allegedly sending sensitive US military information to Chinese intelligence officers.",
+            "url": "https://www.cnn.com/2023/08/03/politics/navy-sailors-arrested-military-information-china/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803144011-01-us-navy-sailors-san-diego-031323-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T02:57:00Z",
+            "content": "Two US Navy sailors have been indicted and arrested for allegedly sending sensitive US military information to Chinese intelligence officers. \r\nOne of the sailors, Jinchao Wei, was arrested Wednesday… [+5424 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Arlette Saenz",
+            "title": "Biden calls for immediate release of Nigerien President Bazoum - CNN",
+            "description": "President Joe Biden on Thursday called for the immediate release of Nigerien President Mohamed Bazoum in a written statement commemorating Niger’s Independence Day, saying the US “stands with the people of Niger” as the country faces a “grave challenge to its…",
+            "url": "https://www.cnn.com/2023/08/03/politics/biden-niger-president/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803064546-joe-biden-mohamed-bazoum-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-04T02:20:00Z",
+            "content": "President Joe Biden on Thursday called for the immediate release of Nigerien President Mohamed Bazoum in a written statement commemorating Nigers Independence Day, saying the US stands with the peopl… [+2486 chars]"
+        }
+
+    ]
+}
